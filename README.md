@@ -2,10 +2,10 @@
 
 Side Note
 
-
 Due to the University of Waterloo's policy, I am unable to directly share the code on GitHub. However, if you are interested in viewing the code, please feel free to email me at i2kashif@uwaterloo.ca.
 
 Introduction
+
 Welcome to my Watopoly design, below you will find an overview which goes over our project, an updated UML, a design which discusses my class hierarchy, our resilience to change which discusses how I structured the code so that I could make changes and these changes wouldn’t affect my implementation.
 
 Overview
