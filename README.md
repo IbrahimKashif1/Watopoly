@@ -1,7 +1,6 @@
 # Watopoly
 
 Side Note
-
 Due to the University of Waterloo's policy, I am unable to directly share the code on GitHub. However, if you are interested in viewing the code, please feel free to email me at i2kashif@uwaterloo.ca.
 
 Introduction
